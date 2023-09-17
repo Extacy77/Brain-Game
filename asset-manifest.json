@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brain-Game/static/css/main.4b892b19.css",
+    "main.js": "/Brain-Game/static/js/main.3527f51c.js",
+    "index.html": "/Brain-Game/index.html",
+    "main.4b892b19.css.map": "/Brain-Game/static/css/main.4b892b19.css.map",
+    "main.3527f51c.js.map": "/Brain-Game/static/js/main.3527f51c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b892b19.css",
+    "static/js/main.3527f51c.js"
+  ]
+}
