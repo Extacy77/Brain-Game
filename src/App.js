@@ -4,18 +4,18 @@ import SingleCard from "./components/SingleCard";
 
 //Array of card objects
 const cardImages = [
-  { src: "/img/ballerina-cat.png", matched: false },
-  { src: "img/bee.png", matched: false },
-  { src: "img/dog.png", matched: false },
-  { src: "img/chicken.png", matched: false },
-  { src: "/img/fox.png", matched: false },
-  { src: "/img/frog.png", matched: false },
-  { src: "/img/giraffe.png", matched: false },
-  { src: "/img/lion.png", matched: false },
-  { src: "/img/owl.png", matched: false },
-  { src: "/img/polar-bear.png", matched: false },
-  { src: "/img/pugs.png", matched: false },
-  { src: "/img/rabbit.png", matched: false },
+  { src: "./img/ballerina-cat.png", matched: false },
+  { src: "./img/bee.png", matched: false },
+  { src: "./img/dog.png", matched: false },
+  { src: "./img/chicken.png", matched: false },
+  { src: "./img/fox.png", matched: false },
+  { src: "./img/frog.png", matched: false },
+  { src: "./img/giraffe.png", matched: false },
+  { src: "./img/lion.png", matched: false },
+  { src: "./img/owl.png", matched: false },
+  { src: "./img/polar-bear.png", matched: false },
+  { src: "./img/pugs.png", matched: false },
+  { src: "./img/rabbit.png", matched: false },
 ];
 
 function App() {
