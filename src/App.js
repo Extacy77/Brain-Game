@@ -6,8 +6,8 @@ import SingleCard from "./components/SingleCard";
 const cardImages = [
   { src: "/img/ballerina-cat.png", matched: false },
   { src: "img/bee.png", matched: false },
-  { src: "/img/dog.png", matched: false },
-  { src: "/img/chicken.png", matched: false },
+  { src: "img/dog.png", matched: false },
+  { src: "img/chicken.png", matched: false },
   { src: "/img/fox.png", matched: false },
   { src: "/img/frog.png", matched: false },
   { src: "/img/giraffe.png", matched: false },
